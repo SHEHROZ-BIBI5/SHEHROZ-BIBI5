@@ -18,8 +18,7 @@
 
 ## 📫 How to Reach Me  
 - GitHub: [SHEHROZ-BIBI5](https://github.com/SHEHROZ-BIBI5)  
-- Email: *[shehrozbibi5@gmail.com]*  
-- LinkedIn: *[www.linkedin.com/in/shehroz-bibi-190582338]*  
+ - LinkedIn: *[www.linkedin.com/in/shehroz-bibi-190582338]*  
 
 ## ⚡ Fun Fact  
 💡 "Every great developer you know started as a beginner!"  
